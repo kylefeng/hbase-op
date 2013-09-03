@@ -1,0 +1,1 @@
+My simple Clojure HBase program. 
